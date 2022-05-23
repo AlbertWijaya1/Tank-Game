@@ -48,3 +48,4 @@ void UHealthComponent:: DamageTaken(AActor* DamagedActor, float Damage, const UD
 	// UE_LOG(LogTemp, Warning, TEXT("Health: %f"), Health);
 }
 
+//test commit
